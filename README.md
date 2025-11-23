@@ -145,3 +145,19 @@ git remote add origin https://github.com/your-username/your-repo.git
 
 git push -u origin main
 
+
+UI:
+
+<img width="1897" height="811" alt="image" src="https://github.com/user-attachments/assets/9c491edb-e8b7-475d-830c-6584b654a206" />
+
+<img width="1904" height="828" alt="image" src="https://github.com/user-attachments/assets/58c16fed-8cf9-43b6-ad71-a24bfb48800e" />
+
+<img width="1919" height="798" alt="image" src="https://github.com/user-attachments/assets/3b15d379-f597-4319-ac9f-de4103d637f6" />
+
+<img width="1909" height="826" alt="image" src="https://github.com/user-attachments/assets/6a348eb1-40fb-4889-8ef4-1e93b64b4e67" />
+
+<img width="1919" height="674" alt="image" src="https://github.com/user-attachments/assets/9ca6cd5d-010d-4570-844d-fd225b45fda3" />
+
+
+
+
